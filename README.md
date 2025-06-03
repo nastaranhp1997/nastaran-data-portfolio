@@ -13,7 +13,7 @@ Automated updates to Confluence pages using Python and REST API. Reduced manual 
 ### 2. Thesis – Life Cycle Assessment (in progress)
 Using Python to model sustainability and circular economy scenarios. Includes LCA concepts and systems thinking.
 
-→ [Summary](./thesis/summary.md)
+→ [Summary/Code](./thesis/summary.md)
 
 ---
 
